@@ -12,9 +12,9 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Atualmente, estou focado em consolidar meus conhecimentos em **algoritmos**, **estruturas de dados**, e **desenvolvimento de sistemas multiplataforma**. Tenho experiência prática em C, Python e Java, e estou sempre buscando novos desafios para evoluir minhas habilidades técnicas.
+Atualmente, estou focado em consolidar meus conhecimentos em **algoritmos**, **estruturas de dados**, e **desenvolvimento de sistemas**. Tenho experiência prática em programação procedural com as linguagens: C, Python e Java, e estou sempre buscando novos desafios para evoluir minhas habilidades técnicas.
 
 Sou motivado por resolver problemas complexos, escrever código limpo e aprender continuamente com a comunidade.
 
