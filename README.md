@@ -1,3 +1,5 @@
+Olá Meu nome è Vicenzo Benelli
+
 <h3 align="center">🎓 Graduando em Ciência da Computação</h3>
 <h3 align="center">🎓 Graduando em Análise e Desenvolvimento de Sistemas</h3>
 <h3 align="center">💻 Linguagens de Maior Domínio: C | 🐍 Python | ☕ Java</h3>
