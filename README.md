@@ -14,7 +14,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VicenzoBenelli&show_icons=true&theme=radical)
 
 ### 🔥 Linguagens Mais Usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenzoBenelli&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenzoBenelli&layout=compact&theme=dark&exclude_repo=c-core-concepts-lab)
 
 
 ---
