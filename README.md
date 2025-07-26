@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou Vicenzo Benelli</h1>
+<h1 align="center"> Olá! Eu sou Vicenzo Benelli</h1>
 
 <p align="center">
   🎓 Graduando em <strong>Ciência da Computação</strong> <br>
