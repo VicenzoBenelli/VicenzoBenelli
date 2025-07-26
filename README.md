@@ -16,9 +16,6 @@
 ### 🔥 Linguagens Mais Usadas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenzoBenelli&layout=compact&theme=dark)
 
-### 👨‍💻 Projetos em Destaque
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=VicenzoBenelli&repo=VicenzoBenelli&theme=vision-friendly-dark)](https://github.com/VicenzoBenelli/VicenzoBenelli)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=VicenzoBenelli&repo=projeto-exemplo&theme=vision-friendly-dark)](https://github.com/VicenzoBenelli/projeto-exemplo)
 
 ---
 
