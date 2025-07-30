@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,git,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,vscode" alt="Tech Stack" />
 </p>
 
 ---
