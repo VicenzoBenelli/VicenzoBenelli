@@ -1,16 +1,16 @@
 <h1 align="center">👨‍💻 Vicenzo Benelli</h1>
 
 <p align="center">
-  <strong>Backend Developer | Software Engineering Student</strong>
+  <strong>Backend Developer | AI Systems Enthusiast</strong>
 </p>
 
 <p align="center">
-  🎓 Ciência da Computação <br>
-  🎓 Análise e Desenvolvimento de Sistemas
+🎓 Ciência da Computação <br>
+🎓 Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
-  Desenvolvedor focado em construção de sistemas robustos, algoritmos eficientes e boas práticas de engenharia de software.
+Desenvolvedor focado em engenharia de software, algoritmos e construção de sistemas backend escaláveis, com interesse crescente em aplicações de Inteligência Artificial.
 </p>
 
 ---
@@ -18,19 +18,27 @@
 # 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,spring,git,github,vscode,linux"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,spring,git,github,linux,vscode,idea"/>
 </p>
 
 ---
 
-# 🧠 Especialidades
+# 🧠 Conhecimentos Técnicos
+
+### Backend & Software Engineering
 
 - Programação Orientada a Objetos
 - Estruturas de Dados
 - Algoritmos
-- Desenvolvimento Backend
 - Arquitetura de Software
-- Boas práticas de código
+- Desenvolvimento Backend com Java
+
+### Inteligência Artificial
+
+- Fundamentos de **LLMs**
+- Arquiteturas **RAG**
+- **Fine-Tuning** de modelos
+- Aplicações de IA em sistemas
 
 ---
 
@@ -49,15 +57,15 @@
 
 # 🧩 Projetos em destaque
 
-📌 Alguns projetos que demonstram minhas habilidades:
+Alguns projetos focados em:
 
 🔹 Sistemas orientados a objetos em **Java**
 
-🔹 Implementações de **estruturas de dados**
+🔹 Implementação de **estruturas de dados**
 
-🔹 Projetos de **algoritmos e lógica**
+🔹 Projetos de **backend**
 
-🔹 Aplicações backend
+🔹 Experimentos com **aplicações de IA**
 
 ---
 
@@ -71,10 +79,4 @@
 
 # 📫 Contato
 
-📧 Email: **vicenzo.benelli@gmail.com**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VicenzoBenelli&color=blue"/>
-</p>
+📧 vicenzo.benelli@gmail.com
