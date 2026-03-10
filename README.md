@@ -45,7 +45,10 @@ Desenvolvedor focado em engenharia de software, algoritmos e construção de sis
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VicenzoBenelli&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VicenzoBenelli&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
+
+<p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenzoBenelli&layout=compact&theme=tokyonight"/>
 </p>
 
